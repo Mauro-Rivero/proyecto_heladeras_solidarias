@@ -12,9 +12,9 @@ https://drive.google.com/file/d/1yPIl8KA9F96toi8R7ShhOASW8DeqprJY/view?usp=shari
 
 | Integrante | Legajo |
 |----------|----------|
-| Ale Marino, Santiago   | 208.861-7  |
-| Cosenza, Lucía Julieta    | 202.535-0   |
-| Rivero, Mauro Federico | 204.003-7|
-| Slaibe, Facundo | 209.197-5|
-| Waldman, Federico |204.167-4 |
-| Zunino, Luciano |208.436-3|
+| Ale Marino, Santiago   | ******** |
+| Cosenza, Lucía Julieta    | ******** |
+| Rivero, Mauro Federico | ******** |
+| Slaibe, Facundo | ******** |
+| Waldman, Federico | ******** |
+| Zunino, Luciano | ******** |
